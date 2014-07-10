@@ -12,4 +12,4 @@ To run
 - change the permissions `chmod +x doge.py`
 - run it `./doge.py`
 
-![alt text](https://github.com/brobin/such-browser/screenshot.png "Very Sceenshot, Wow")
+![alt text](screenshot.png "Very Sceenshot, Wow")
