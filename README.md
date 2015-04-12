@@ -6,6 +6,11 @@ Dependencies
 - gtk
 - webkit
 
+```
+sudo apt-get install python-gtk2
+sudo apt-get install python-webkit
+```
+
 To run
 - download
 - open a terminal in that directory
